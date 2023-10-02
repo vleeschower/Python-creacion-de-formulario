@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python creacion de formulario", "Python creacion de formulario.pyproj", "{B0B22C91-0EB7-4311-B0CA-42874AE6FFA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B22C91-0EB7-4311-B0CA-42874AE6FFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B22C91-0EB7-4311-B0CA-42874AE6FFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6140D7E-7B95-4B9B-ACB5-584C57649959}
+	EndGlobalSection
+EndGlobal

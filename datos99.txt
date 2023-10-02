@@ -1,0 +1,14 @@
+Nombres: Citlalli Araceli
+Apellidos: Hernandez Vleeschower
+Edad: 19 años
+Estatura: 1.58 cm
+Telefono: 9612132386
+Genero: Mujer
+
+Nombres: Juan
+Apellidos: Lopez
+Edad: 33 años
+Estatura: 1.78 cm
+Telefono: 9615284632
+Genero: Hombre
+
