@@ -12,3 +12,10 @@ Estatura: 1.78 cm
 Telefono: 9615284632
 Genero: Hombre
 
+Nombres: Wendy Jaqueline
+Apellidos: Hernandez Vleeschower
+Edad: 24 años
+Estatura: 1.60 cm
+Telefono: 9616677548
+Genero: Mujer
+
